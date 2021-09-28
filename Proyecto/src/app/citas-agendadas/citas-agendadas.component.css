@@ -1,0 +1,15 @@
+.contenedor-citas{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 75px;
+    background-color: rgba(53, 56, 56, 0.438);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.contenedor-form{
+    width: 80%;
+    margin-left: 10%;
+    font-weight: bold;
+
+}

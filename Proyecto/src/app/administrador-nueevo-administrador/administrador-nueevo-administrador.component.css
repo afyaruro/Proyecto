@@ -1,0 +1,21 @@
+.contenedor-nuevo-admin{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 75px;
+    background-color: rgba(53, 56, 56, 0.438);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.contenedor-form-admin{
+    width: 80%;
+    margin-left: 10%;
+    font-weight: bold;
+
+}
+
+.centrarboton{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
